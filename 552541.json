@@ -1,0 +1,3425 @@
+{
+    "league_id": "552541", 
+    "seasons": [
+        {
+            "weeks": [
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Lunch=X'dDue ToLackOfHustle", 
+                            "players": [
+                                {
+                                    "name": "Jermichael Finley, GB", 
+                                    "points": 4.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Matt Forte, Chi", 
+                                    "points": 30.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Greg Jennings, GB", 
+                                    "points": 14.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Philip Rivers, SD", 
+                                    "points": 23.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Cardinals D/ST, Ari", 
+                                    "points": 16.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Shonn Greene, NYJ", 
+                                    "points": -1.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Randy Moss, Ten", 
+                                    "points": 5.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Garrett Hartley, NO", 
+                                    "points": 0.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Braylon Edwards, NYJ", 
+                                    "points": 0.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 91.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=1&seasonId=2010&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "Matt Prater, Den", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Ravens D/ST, Bal", 
+                                    "points": 8.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Ray Rice, Bal", 
+                                    "points": 5.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Michael Crabtree, SF", 
+                                    "points": 1.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Malcom Floyd, SD", 
+                                    "points": 4.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Dallas Clark, Ind", 
+                                    "points": 14.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Ryan Mathews, SD", 
+                                    "points": 5.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Tom Brady, NE", 
+                                    "points": 28.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Terrell Owens, Cin", 
+                                    "points": 5.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 77.0, 
+                            "teamId": 2, 
+                            "teamName": "Lunch=X'dDue ToLackOfHustle", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=2&scoringPeriodId=1&seasonId=2010&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Dallas Stick-Up Boys", 
+                            "players": [
+                                {
+                                    "name": "Michael Turner, Atl", 
+                                    "points": 4.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Vernon Davis, SF", 
+                                    "points": 7.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Rob Bironas, Ten", 
+                                    "points": 9.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Cowboys D/ST, Dal", 
+                                    "points": 5.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Robert Meachem, NO", 
+                                    "points": 3.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Donald Driver, GB", 
+                                    "points": 9.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Aaron Rodgers, GB", 
+                                    "points": 15.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Arian Foster, Hou", 
+                                    "points": 41.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Brandon Marshall, Mia", 
+                                    "points": 5.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 98.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=1&seasonId=2010&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 1
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Holliston Hooligans", 
+                            "players": [
+                                {
+                                    "name": "Raiders D/ST, Oak", 
+                                    "points": 6.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Mike Williams, Sea", 
+                                    "points": 0.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Jermichael Finley, GB", 
+                                    "points": 10.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Matt Forte, Chi", 
+                                    "points": 11.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Greg Jennings, GB", 
+                                    "points": 3.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Philip Rivers, SD", 
+                                    "points": 27.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Shonn Greene, NYJ", 
+                                    "points": 5.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Randy Moss, Ten", 
+                                    "points": 9.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Garrett Hartley, NO", 
+                                    "points": 12.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 83.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=2&seasonId=2010&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Bombay Dabbawalas", 
+                            "players": [
+                                {
+                                    "name": "Chiefs D/ST, KC", 
+                                    "points": 12.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Legedu Naanee, SD", 
+                                    "points": 1.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Mike Williams, TB", 
+                                    "points": 11.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Matt Prater, Den", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Ray Rice, Bal", 
+                                    "points": 11.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Ahmad Bradshaw, NYG", 
+                                    "points": 8.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Dallas Clark, Ind", 
+                                    "points": 14.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Wes Welker, NE", 
+                                    "points": 9.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Tom Brady, NE", 
+                                    "points": 15.0, 
+                                    "position": "QB"
+                                }
+                            ], 
+                            "score": 88.0, 
+                            "teamId": 2, 
+                            "teamName": "Lunch=X'dDue ToLackOfHustle", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=2&scoringPeriodId=2&seasonId=2010&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "Michael Turner, Atl", 
+                                    "points": 7.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Bernard Berrian, Min", 
+                                    "points": 2.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Vernon Davis, SF", 
+                                    "points": 9.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Rob Bironas, Ten", 
+                                    "points": 3.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Cowboys D/ST, Dal", 
+                                    "points": 6.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Donald Driver, GB", 
+                                    "points": 9.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Aaron Rodgers, GB", 
+                                    "points": 30.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Arian Foster, Hou", 
+                                    "points": 12.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Brandon Marshall, Mia", 
+                                    "points": 7.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 85.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=2&seasonId=2010&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 2
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Bombay Dabbawalas", 
+                            "players": [
+                                {
+                                    "name": "Jermichael Finley, GB", 
+                                    "points": 11.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Matt Forte, Chi", 
+                                    "points": 3.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Greg Jennings, GB", 
+                                    "points": 7.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Kevin Walter, Hou", 
+                                    "points": 9.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Philip Rivers, SD", 
+                                    "points": 28.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Cardinals D/ST, Ari", 
+                                    "points": 10.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Shonn Greene, NYJ", 
+                                    "points": 3.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Randy Moss, Ten", 
+                                    "points": 16.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Garrett Hartley, NO", 
+                                    "points": 5.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 92.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=3&seasonId=2010&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Brighton GUNSLINGAZ", 
+                            "players": [
+                                {
+                                    "name": "Chiefs D/ST, KC", 
+                                    "points": 11.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Mike Williams, TB", 
+                                    "points": 3.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Matt Prater, Den", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Dez Bryant, Dal", 
+                                    "points": 5.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Ray Rice, Bal", 
+                                    "points": 9.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Ahmad Bradshaw, NYG", 
+                                    "points": 15.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Dallas Clark, Ind", 
+                                    "points": 4.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Wes Welker, NE", 
+                                    "points": 4.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Tom Brady, NE", 
+                                    "points": 28.0, 
+                                    "position": "QB"
+                                }
+                            ], 
+                            "score": 86.0, 
+                            "teamId": 2, 
+                            "teamName": "Lunch=X'dDue ToLackOfHustle", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=2&scoringPeriodId=3&seasonId=2010&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "East Dillon Lions", 
+                            "players": [
+                                {
+                                    "name": "Michael Turner, Atl", 
+                                    "points": 18.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Dolphins D/ST, Mia", 
+                                    "points": -2.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Bernard Berrian, Min", 
+                                    "points": 1.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Vernon Davis, SF", 
+                                    "points": 2.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Rob Bironas, Ten", 
+                                    "points": 10.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Donald Driver, GB", 
+                                    "points": 6.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Aaron Rodgers, GB", 
+                                    "points": 24.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Arian Foster, Hou", 
+                                    "points": 10.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Brandon Marshall, Mia", 
+                                    "points": 22.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 91.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=3&seasonId=2010&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 3
+                }
+            ], 
+            "year": 2010
+        }, 
+        {
+            "weeks": [
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Lunch=X'dDue ToLackOfHustle", 
+                            "players": [
+                                {
+                                    "name": "Josh Freeman, TB", 
+                                    "points": 16.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Mike Williams, TB", 
+                                    "points": 11.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Michael Turner, Atl", 
+                                    "points": 12.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "John Kasay, NO", 
+                                    "points": 10.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Chargers D/ST, SD", 
+                                    "points": 5.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Kellen Winslow, TB", 
+                                    "points": 6.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Ahmad Bradshaw, NYG", 
+                                    "points": 11.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Andre Johnson, Hou", 
+                                    "points": 15.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Brandon Marshall, Mia", 
+                                    "points": 13.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 99.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=1&seasonId=2011&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "Lions D/ST, Det", 
+                                    "points": 6.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Jermichael Finley, GB", 
+                                    "points": 5.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Eli Manning, NYG", 
+                                    "points": 14.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Reggie Wayne, Ind", 
+                                    "points": 16.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Anquan Boldin, Bal", 
+                                    "points": 13.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Knowshon Moreno, Den", 
+                                    "points": 3.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Nick Folk, NYJ", 
+                                    "points": 11.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Min", 
+                                    "points": 9.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Roy Williams, Chi", 
+                                    "points": 5.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 82.0, 
+                            "teamId": 2, 
+                            "teamName": "Lunch=X'dDue ToLackOfHustle", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=2&scoringPeriodId=1&seasonId=2011&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "BYE", 
+                            "players": [
+                                {
+                                    "name": "Nate Kaeding, SD", 
+                                    "points": 0.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Peyton Hillis, Cle", 
+                                    "points": 8.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Packers D/ST, GB", 
+                                    "points": 7.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Dallas Clark, Ind", 
+                                    "points": 3.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Aaron Rodgers, GB", 
+                                    "points": 30.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Jordy Nelson, GB", 
+                                    "points": 13.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "BenJarvus Green-Ellis, NE", 
+                                    "points": 9.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Plaxico Burress, NYJ", 
+                                    "points": 13.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Dwayne Bowe, KC", 
+                                    "points": 1.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 84.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=1&seasonId=2011&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 1
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "East Dillon Lions", 
+                            "players": [
+                                {
+                                    "name": "Mike Williams, TB", 
+                                    "points": 0.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Michael Turner, Atl", 
+                                    "points": 20.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "John Kasay, NO", 
+                                    "points": 14.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Buccaneers D/ST, TB", 
+                                    "points": 4.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Kellen Winslow, TB", 
+                                    "points": 4.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Ahmad Bradshaw, NYG", 
+                                    "points": 9.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Andre Johnson, Hou", 
+                                    "points": 15.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Kyle Orton, KC", 
+                                    "points": 17.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Brandon Marshall, Mia", 
+                                    "points": 13.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 96.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=2&seasonId=2011&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Brighton GUNSLINGAZ", 
+                            "players": [
+                                {
+                                    "name": "Lions D/ST, Det", 
+                                    "points": 21.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Jermichael Finley, GB", 
+                                    "points": 6.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Eli Manning, NYG", 
+                                    "points": 18.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Mohamed Massaquoi, Cle", 
+                                    "points": 4.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Reggie Wayne, Ind", 
+                                    "points": 6.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Anquan Boldin, Bal", 
+                                    "points": 4.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Nick Folk, NYJ", 
+                                    "points": 13.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Tim Hightower, Wsh", 
+                                    "points": 10.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Min", 
+                                    "points": 26.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 108.0, 
+                            "teamId": 2, 
+                            "teamName": "Lunch=X'dDue ToLackOfHustle", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=2&scoringPeriodId=2&seasonId=2011&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "St. Louis Rams", 
+                            "players": [
+                                {
+                                    "name": "Peyton Hillis, Cle", 
+                                    "points": 21.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Packers D/ST, GB", 
+                                    "points": 11.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Dallas Clark, Ind", 
+                                    "points": 9.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Robbie Gould, Chi", 
+                                    "points": 8.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Aaron Rodgers, GB", 
+                                    "points": 25.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Jordy Nelson, GB", 
+                                    "points": 14.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "BenJarvus Green-Ellis, NE", 
+                                    "points": 13.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Plaxico Burress, NYJ", 
+                                    "points": 0.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Dwayne Bowe, KC", 
+                                    "points": 11.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 112.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=2&seasonId=2011&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 2
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Danger Zone", 
+                            "players": [
+                                {
+                                    "name": "Josh Freeman, TB", 
+                                    "points": 12.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Mike Williams, TB", 
+                                    "points": 4.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Michael Turner, Atl", 
+                                    "points": 2.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "John Kasay, NO", 
+                                    "points": 6.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Chargers D/ST, SD", 
+                                    "points": 4.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Kellen Winslow, TB", 
+                                    "points": 2.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Ahmad Bradshaw, NYG", 
+                                    "points": 19.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Andre Johnson, Hou", 
+                                    "points": 12.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Brandon Marshall, Mia", 
+                                    "points": 4.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 65.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=3&seasonId=2011&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Team Cavallo", 
+                            "players": [
+                                {
+                                    "name": "Lions D/ST, Det", 
+                                    "points": 3.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Brandon Gibson, StL", 
+                                    "points": 11.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Reggie Wayne, Ind", 
+                                    "points": 2.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Anquan Boldin, Bal", 
+                                    "points": 7.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Nick Folk, NYJ", 
+                                    "points": 6.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Dustin Keller, NYJ", 
+                                    "points": 8.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Tim Hightower, Wsh", 
+                                    "points": 13.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Min", 
+                                    "points": 14.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Kevin Kolb, Ari", 
+                                    "points": 13.0, 
+                                    "position": "QB"
+                                }
+                            ], 
+                            "score": 77.0, 
+                            "teamId": 2, 
+                            "teamName": "Lunch=X'dDue ToLackOfHustle", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=2&scoringPeriodId=3&seasonId=2011&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Good Luck Jacob", 
+                            "players": [
+                                {
+                                    "name": "Jeremy Maclin, Phi", 
+                                    "points": 6.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Packers D/ST, GB", 
+                                    "points": 8.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Robbie Gould, Chi", 
+                                    "points": 5.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Mike Tolbert, SD", 
+                                    "points": 3.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Aaron Rodgers, GB", 
+                                    "points": 27.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Tony Scheffler, Det", 
+                                    "points": 0.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Jordy Nelson, GB", 
+                                    "points": 4.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "BenJarvus Green-Ellis, NE", 
+                                    "points": 1.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Dwayne Bowe, KC", 
+                                    "points": 12.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 66.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=3&seasonId=2011&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 3
+                }
+            ], 
+            "year": 2011
+        }, 
+        {
+            "weeks": [
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Holliston Hooligans", 
+                            "players": [
+                                {
+                                    "name": "Dan Bailey, Dal", 
+                                    "points": 6.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Texans D/ST, Hou", 
+                                    "points": 15.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Marques Colston, NO", 
+                                    "points": 9.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Peyton Manning, Den", 
+                                    "points": 24.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Antonio Brown, Pit", 
+                                    "points": 11.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Tony Gonzalez, Atl", 
+                                    "points": 16.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Maurice Jones-Drew, Jac", 
+                                    "points": 11.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Pierre Garcon, Wsh", 
+                                    "points": 20.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "LeSean McCoy, Phi", 
+                                    "points": 17.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 129.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=1&seasonId=2012&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "DeMarco Murray, Dal", 
+                                    "points": 15.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Victor Cruz, NYG", 
+                                    "points": 11.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Vernon Davis, SF", 
+                                    "points": 13.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Rob Bironas, Ten", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Tom Brady, NE", 
+                                    "points": 21.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Kevin Smith, Det", 
+                                    "points": 24.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Brandon Lloyd, NE", 
+                                    "points": 11.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST, NE", 
+                                    "points": 16.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "DeAngelo Williams, Car", 
+                                    "points": 1.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 119.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=1&seasonId=2012&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 1
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "DUI Don't Have a RB", 
+                            "players": [
+                                {
+                                    "name": "Dan Bailey, Dal", 
+                                    "points": 1.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Texans D/ST, Hou", 
+                                    "points": 9.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Marques Colston, NO", 
+                                    "points": 7.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Peyton Manning, Den", 
+                                    "points": 9.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Antonio Brown, Pit", 
+                                    "points": 14.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Tony Gonzalez, Atl", 
+                                    "points": 20.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Maurice Jones-Drew, Jac", 
+                                    "points": 15.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Pierre Garcon, Wsh", 
+                                    "points": 0.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "LeSean McCoy, Phi", 
+                                    "points": 14.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 89.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=2&seasonId=2012&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Bombay Dabbawalas", 
+                            "players": [
+                                {
+                                    "name": "DeMarco Murray, Dal", 
+                                    "points": 11.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Victor Cruz, NYG", 
+                                    "points": 34.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Vernon Davis, SF", 
+                                    "points": 24.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Tom Brady, NE", 
+                                    "points": 16.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Stephen Hill, NYJ", 
+                                    "points": 0.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Brandon Lloyd, NE", 
+                                    "points": 14.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Billy Cundiff, SF", 
+                                    "points": 3.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST, NE", 
+                                    "points": 5.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Stevan Ridley, NE", 
+                                    "points": 12.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 119.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=2&seasonId=2012&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 2
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Danger Zone", 
+                            "players": [
+                                {
+                                    "name": "Dan Bailey, Dal", 
+                                    "points": 10.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Texans D/ST, Hou", 
+                                    "points": 4.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Marques Colston, NO", 
+                                    "points": 7.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Peyton Manning, Den", 
+                                    "points": 25.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Antonio Brown, Pit", 
+                                    "points": 19.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Tony Gonzalez, Atl", 
+                                    "points": 24.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Brent Celek, Phi", 
+                                    "points": 5.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Maurice Jones-Drew, Jac", 
+                                    "points": 26.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "LeSean McCoy, Phi", 
+                                    "points": 10.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 130.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=3&seasonId=2012&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Whiskey Tango Foxtrot", 
+                            "players": [
+                                {
+                                    "name": "DeMarco Murray, Dal", 
+                                    "points": 13.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Victor Cruz, NYG", 
+                                    "points": 10.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Vernon Davis, SF", 
+                                    "points": 16.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Kevin Smith, Det", 
+                                    "points": 0.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Brandon Lloyd, NE", 
+                                    "points": 19.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST, NE", 
+                                    "points": -2.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Robert Griffin III, Wsh", 
+                                    "points": 26.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Justin Tucker, Bal", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Stevan Ridley, NE", 
+                                    "points": 3.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 92.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=3&seasonId=2012&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 3
+                }
+            ], 
+            "year": 2012
+        }, 
+        {
+            "weeks": [
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Holliston Hooligans", 
+                            "players": [
+                                {
+                                    "name": "Owen Daniels, Bal", 
+                                    "points": 23.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Texans D/ST, Hou", 
+                                    "points": 6.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "David Wilson, NYG", 
+                                    "points": -3.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Peyton Manning, Den", 
+                                    "points": 60.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Blair Walsh, Min", 
+                                    "points": 8.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Mark Ingram, NO", 
+                                    "points": 1.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Vincent Jackson, TB", 
+                                    "points": 22.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Pierre Garcon, Wsh", 
+                                    "points": 13.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "C.J. Spiller, Buf", 
+                                    "points": 8.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 138.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=1&seasonId=2013&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "Sidney Rice, Sea", 
+                                    "points": 5.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Vick Ballard, Ind", 
+                                    "points": 7.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Roddy White, Atl", 
+                                    "points": 3.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Randy Bullock, Hou", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Steelers D/ST, Pit", 
+                                    "points": 4.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Tony Gonzalez, Atl", 
+                                    "points": 12.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Min", 
+                                    "points": 32.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Robert Griffin III, Wsh", 
+                                    "points": 23.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Steven Jackson, Atl", 
+                                    "points": 16.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 109.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=1&seasonId=2013&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 1
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Right Team Wrong Lineup", 
+                            "players": [
+                                {
+                                    "name": "Owen Daniels, Bal", 
+                                    "points": 10.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Texans D/ST, Hou", 
+                                    "points": 5.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "David Wilson, NYG", 
+                                    "points": 1.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Peyton Manning, Den", 
+                                    "points": 24.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Blair Walsh, Min", 
+                                    "points": 12.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Mark Ingram, NO", 
+                                    "points": 2.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Vincent Jackson, TB", 
+                                    "points": 12.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Pierre Garcon, Wsh", 
+                                    "points": 28.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "C.J. Spiller, Buf", 
+                                    "points": 14.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 108.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=2&seasonId=2013&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Whiskey Tango Foxtrot", 
+                            "players": [
+                                {
+                                    "name": "Kellen Winslow, NYJ", 
+                                    "points": 4.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Randy Bullock, Hou", 
+                                    "points": -1.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Steelers D/ST, Pit", 
+                                    "points": 0.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Tony Gonzalez, Atl", 
+                                    "points": 7.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Min", 
+                                    "points": 9.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jerome Simpson, Min", 
+                                    "points": 6.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Andrew Luck, Ind", 
+                                    "points": 19.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Steven Jackson, Atl", 
+                                    "points": 7.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 18.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 69.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=2&seasonId=2013&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 2
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Whiskey Tango Foxtrot", 
+                            "players": [
+                                {
+                                    "name": "Owen Daniels, Bal", 
+                                    "points": 7.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Texans D/ST, Hou", 
+                                    "points": -2.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "David Wilson, NYG", 
+                                    "points": 3.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Peyton Manning, Den", 
+                                    "points": 30.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Blair Walsh, Min", 
+                                    "points": 10.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Vincent Jackson, TB", 
+                                    "points": 6.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Tyler Eifert, Cin", 
+                                    "points": 1.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Pierre Garcon, Wsh", 
+                                    "points": 16.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "C.J. Spiller, Buf", 
+                                    "points": 1.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 72.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=3&seasonId=2013&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "MAGNA CARTA", 
+                            "players": [
+                                {
+                                    "name": "Jason Snelling, Atl", 
+                                    "points": 20.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Steelers D/ST, Pit", 
+                                    "points": -3.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Tony Gonzalez, Atl", 
+                                    "points": 6.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Min", 
+                                    "points": 20.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Marlon Brown, Bal", 
+                                    "points": 2.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Andrew Luck, Ind", 
+                                    "points": 14.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Garrett Hartley, FA", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Harry Douglas, Atl", 
+                                    "points": -1.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 3.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 68.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=3&seasonId=2013&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 3
+                }
+            ], 
+            "year": 2013
+        }, 
+        {
+            "weeks": [
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Holliston Hooligans", 
+                            "players": [
+                                {
+                                    "name": "49ers D/ST, SF", 
+                                    "points": 18.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Russell Wilson, Sea", 
+                                    "points": 21.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Greg Jennings, Mia", 
+                                    "points": 17.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Marshawn Lynch, Sea", 
+                                    "points": 25.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jason Witten, Dal", 
+                                    "points": 3.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Blair Walsh, Min", 
+                                    "points": 13.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Alfred Morris, Wsh", 
+                                    "points": 9.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Arian Foster, Hou", 
+                                    "points": 11.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 9.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 126.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=1&seasonId=2014&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "Matt Bryant, Atl", 
+                                    "points": 18.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Colin Kaepernick, SF", 
+                                    "points": 21.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Randall Cobb, GB", 
+                                    "points": 17.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Kyle Rudolph, Min", 
+                                    "points": 9.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Ben Tate, Pit", 
+                                    "points": 4.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Bengals D/ST, Cin", 
+                                    "points": 8.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Min", 
+                                    "points": 10.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jordy Nelson, GB", 
+                                    "points": 17.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Frank Gore, Ind", 
+                                    "points": 6.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 110.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=1&seasonId=2014&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 1
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Right Team Wrong Lineup", 
+                            "players": [
+                                {
+                                    "name": "49ers D/ST, SF", 
+                                    "points": -1.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Russell Wilson, Sea", 
+                                    "points": 21.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Greg Jennings, Mia", 
+                                    "points": 1.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Marshawn Lynch, Sea", 
+                                    "points": 15.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jason Witten, Dal", 
+                                    "points": 7.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Blair Walsh, Min", 
+                                    "points": 0.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Alfred Morris, Wsh", 
+                                    "points": 20.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Arian Foster, Hou", 
+                                    "points": 22.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 12.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 97.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=2&seasonId=2014&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Whiskey Tango Foxtrot", 
+                            "players": [
+                                {
+                                    "name": "Matt Bryant, Atl", 
+                                    "points": 5.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Colin Kaepernick, SF", 
+                                    "points": 13.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Randall Cobb, GB", 
+                                    "points": 22.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Kyle Rudolph, Min", 
+                                    "points": 10.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Marques Colston, NO", 
+                                    "points": 0.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Bengals D/ST, Cin", 
+                                    "points": 12.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Dexter McCluster, Ten", 
+                                    "points": 4.0, 
+                                    "position": "WR, RB"
+                                }, 
+                                {
+                                    "name": "Jordy Nelson, GB", 
+                                    "points": 35.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Frank Gore, Ind", 
+                                    "points": 15.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 116.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=2&seasonId=2014&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 2
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Whiskey Tango Foxtrot", 
+                            "players": [
+                                {
+                                    "name": "Trent Richardson, Oak", 
+                                    "points": 10.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "49ers D/ST, SF", 
+                                    "points": 1.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Russell Wilson, Sea", 
+                                    "points": 26.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Greg Jennings, Mia", 
+                                    "points": 12.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Marshawn Lynch, Sea", 
+                                    "points": 27.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jason Witten, Dal", 
+                                    "points": 8.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Blair Walsh, Min", 
+                                    "points": 10.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Arian Foster, Hou", 
+                                    "points": 0.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 13.0, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 107.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=3&seasonId=2014&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Bend it like Beckham Jr", 
+                            "players": [
+                                {
+                                    "name": "Isaiah Crowell, Cle", 
+                                    "points": 11.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Colin Kaepernick, SF", 
+                                    "points": 20.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Niles Paul, Wsh", 
+                                    "points": 12.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Randall Cobb, GB", 
+                                    "points": 5.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Marques Colston, NO", 
+                                    "points": 10.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Bengals D/ST, Cin", 
+                                    "points": 12.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Dan Carpenter, Buf", 
+                                    "points": 5.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Jordy Nelson, GB", 
+                                    "points": 10.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Frank Gore, Ind", 
+                                    "points": 1.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 86.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=3&seasonId=2014&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 3
+                }
+            ], 
+            "year": 2014
+        }, 
+        {
+            "weeks": [
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Whiskey Tango Foxtrot", 
+                            "players": [
+                                {
+                                    "name": "Jeremy Maclin, KC", 
+                                    "points": 10.2, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "DeMarco Murray, Ten", 
+                                    "points": 18.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Shane Vereen, NYG", 
+                                    "points": 10.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Adam Vinatieri, Ind", 
+                                    "points": -1.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Greg Olsen, Car", 
+                                    "points": 2.1, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Carlos Hyde, SF", 
+                                    "points": 32.2, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST, NE", 
+                                    "points": 5.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Andrew Luck, Ind", 
+                                    "points": 21.7, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Keenan Allen, SD", 
+                                    "points": 31.6, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 129.8, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=1&seasonId=2015&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Bortle Service", 
+                            "players": [
+                                {
+                                    "name": "Isaiah Crowell, Cle", 
+                                    "points": 5.3, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Martellus Bennett, NE", 
+                                    "points": 16.5, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Russell Wilson, Sea", 
+                                    "points": 17.1, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Cody Parkey, Phi", 
+                                    "points": 5.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Antonio Brown, Pit", 
+                                    "points": 28.3, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Rashad Jennings, NYG", 
+                                    "points": 11.2, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "A.J. Green, Cin", 
+                                    "points": 11.3, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "DeAngelo Williams, Pit", 
+                                    "points": 14.2, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Bills D/ST, Buf", 
+                                    "points": 9.0, 
+                                    "position": "D/ST"
+                                }
+                            ], 
+                            "score": 117.9, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=1&seasonId=2015&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 1
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Holliston Hooligans", 
+                            "players": [
+                                {
+                                    "name": "Jeremy Maclin, KC", 
+                                    "points": 9.5, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "DeMarco Murray, Ten", 
+                                    "points": 10.5, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Adam Vinatieri, Ind", 
+                                    "points": 0.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Greg Olsen, Car", 
+                                    "points": 13.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Carlos Hyde, SF", 
+                                    "points": 10.1, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST, NE", 
+                                    "points": 10.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Andrew Luck, Ind", 
+                                    "points": 10.4, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Eric Decker, NYJ", 
+                                    "points": 23.7, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Keenan Allen, SD", 
+                                    "points": 1.6, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 88.8, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=2&seasonId=2015&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "Isaiah Crowell, Cle", 
+                                    "points": 13.2, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Martellus Bennett, NE", 
+                                    "points": 8.8, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Russell Wilson, Sea", 
+                                    "points": 26.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Cody Parkey, Phi", 
+                                    "points": 5.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Antonio Brown, Pit", 
+                                    "points": 36.5, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Rashad Jennings, NYG", 
+                                    "points": 4.4, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "A.J. Green, Cin", 
+                                    "points": 13.5, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "DeAngelo Williams, Pit", 
+                                    "points": 31.2, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Bills D/ST, Buf", 
+                                    "points": -1.0, 
+                                    "position": "D/ST"
+                                }
+                            ], 
+                            "score": 137.6, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=2&seasonId=2015&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 2
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Right Team Wrong Lineup", 
+                            "players": [
+                                {
+                                    "name": "Jeremy Maclin, KC", 
+                                    "points": 28.1, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Devonta Freeman, Atl", 
+                                    "points": 42.3, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Adam Vinatieri, Ind", 
+                                    "points": 5.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Greg Olsen, Car", 
+                                    "points": 33.4, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Carlos Hyde, SF", 
+                                    "points": 7.1, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Donte Moncrief, Ind", 
+                                    "points": 13.2, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST, NE", 
+                                    "points": 5.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Andrew Luck, Ind", 
+                                    "points": 20.5, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Keenan Allen, SD", 
+                                    "points": 37.3, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 191.9, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=3&seasonId=2015&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Danger Zone", 
+                            "players": [
+                                {
+                                    "name": "Josh Scobee, NO", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Isaiah Crowell, Cle", 
+                                    "points": 3.6, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Martellus Bennett, NE", 
+                                    "points": 5.5, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Russell Wilson, Sea", 
+                                    "points": 18.2, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Antonio Brown, Pit", 
+                                    "points": 21.8, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Rashad Jennings, NYG", 
+                                    "points": 8.7, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "A.J. Green, Cin", 
+                                    "points": 44.7, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Chris Polk, Hou", 
+                                    "points": 0.5, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Bills D/ST, Buf", 
+                                    "points": 15.0, 
+                                    "position": "D/ST"
+                                }
+                            ], 
+                            "score": 125.0, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=3&seasonId=2015&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 3
+                }
+            ], 
+            "year": 2015
+        }, 
+        {
+            "weeks": [
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Holliston Hooligans", 
+                            "players": [
+                                {
+                                    "name": "Jeremy Maclin, KC", 
+                                    "points": 17.2, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Dan Bailey, Dal", 
+                                    "points": 17.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Antonio Gates, SD", 
+                                    "points": 5.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "John Brown, Ari", 
+                                    "points": 1.8, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Min", 
+                                    "points": 3.1, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Broncos D/ST, Den", 
+                                    "points": 5.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "DeAngelo Williams, Pit", 
+                                    "points": 35.1, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Andrew Luck, Ind", 
+                                    "points": 43.5, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 13.9, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 141.6, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=1&seasonId=2016&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "Panthers D/ST, Car", 
+                                    "points": 8.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Ben Roethlisberger, Pit", 
+                                    "points": 27.8, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Antonio Brown, Pit", 
+                                    "points": 32.6, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Gary Barnidge, Cle", 
+                                    "points": 0.0, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "DeSean Jackson, TB", 
+                                    "points": 16.2, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Jarvis Landry, Mia", 
+                                    "points": 12.9, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Blair Walsh, Sea", 
+                                    "points": 14.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "C.J. Anderson, Den", 
+                                    "points": 29.9, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "LeSean McCoy, Buf", 
+                                    "points": 17.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 158.4, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=1&seasonId=2016&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 1
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Bombay Dabbawallas", 
+                            "players": [
+                                {
+                                    "name": "Jeremy Maclin, KC", 
+                                    "points": 12.8, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Dan Bailey, Dal", 
+                                    "points": 9.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Antonio Gates, SD", 
+                                    "points": 10.5, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Min", 
+                                    "points": 4.6, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Broncos D/ST, Den", 
+                                    "points": 21.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "DeAngelo Williams, Pit", 
+                                    "points": 23.2, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Andrew Luck, Ind", 
+                                    "points": 12.1, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Arian Foster, Mia", 
+                                    "points": 0.9, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 8.1, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 102.2, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=2&seasonId=2016&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Gurley Fries", 
+                            "players": [
+                                {
+                                    "name": "Panthers D/ST, Car", 
+                                    "points": 13.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Antonio Brown, Pit", 
+                                    "points": 7.9, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Gary Barnidge, Cle", 
+                                    "points": 7.7, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "DeSean Jackson, TB", 
+                                    "points": 7.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Jarvis Landry, Mia", 
+                                    "points": 21.5, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Blair Walsh, Sea", 
+                                    "points": 6.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "C.J. Anderson, Den", 
+                                    "points": 18.3, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Matthew Stafford, Det", 
+                                    "points": 17.5, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "LeSean McCoy, Buf", 
+                                    "points": 13.0, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 111.9, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=2&seasonId=2016&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 2
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Arlington Jolly Bears", 
+                            "players": [
+                                {
+                                    "name": "Jay Ajayi, Mia", 
+                                    "points": 8.8, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jeremy Maclin, KC", 
+                                    "points": 7.5, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Dan Bailey, Dal", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "Clive Walford, Oak", 
+                                    "points": 4.7, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Broncos D/ST, Den", 
+                                    "points": 9.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "DeAngelo Williams, Pit", 
+                                    "points": 8.4, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Andrew Luck, Ind", 
+                                    "points": 15.2, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Eddie Lacy, Sea", 
+                                    "points": 11.5, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 31.4, 
+                                    "position": "WR"
+                                }
+                            ], 
+                            "score": 103.5, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=3&seasonId=2016&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Bombay Dabbawallas", 
+                            "players": [
+                                {
+                                    "name": "Panthers D/ST, Car", 
+                                    "points": 1.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Ben Roethlisberger, Pit", 
+                                    "points": 7.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Shane Vereen, NYG", 
+                                    "points": 15.5, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jason Witten, Dal", 
+                                    "points": 4.5, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Antonio Brown, Pit", 
+                                    "points": 26.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Jarvis Landry, Mia", 
+                                    "points": 26.6, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Blair Walsh, Sea", 
+                                    "points": 6.0, 
+                                    "position": "K"
+                                }, 
+                                {
+                                    "name": "C.J. Anderson, Den", 
+                                    "points": 5.1, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "LeSean McCoy, Buf", 
+                                    "points": 26.6, 
+                                    "position": "RB"
+                                }
+                            ], 
+                            "score": 118.3, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=3&seasonId=2016&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 3
+                }
+            ], 
+            "year": 2016
+        }, 
+        {
+            "weeks": [
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Holliston Hooligans", 
+                            "players": [
+                                {
+                                    "name": "Russell Wilson, Sea", 
+                                    "points": 8.3, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Todd Gurley II, LAR", 
+                                    "points": 20.6, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Ty Montgomery, GB", 
+                                    "points": 19.3, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 6.7, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Emmanuel Sanders, Den", 
+                                    "points": 5.6, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Tyler Eifert, Cin", 
+                                    "points": 1.4, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Adrian Peterson, Ari", 
+                                    "points": 1.8, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST", 
+                                    "points": -2.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Matt Bryant, Atl", 
+                                    "points": 12.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 73.7, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=1&seasonId=2017&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "Tom Brady, NE", 
+                                    "points": 10.7, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Marshawn Lynch, Oak", 
+                                    "points": 10.2, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Danny Woodhead, Bal", 
+                                    "points": 6.7, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Terrelle Pryor Sr., NYJ", 
+                                    "points": 12.6, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Jeremy Maclin, Bal", 
+                                    "points": 13.6, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Coby Fleener, NO", 
+                                    "points": 16.4, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Pierre Garcon, SF", 
+                                    "points": 14.1, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Chargers D/ST", 
+                                    "points": 7.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Dan Bailey, Dal", 
+                                    "points": 15.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 106.3, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=1&seasonId=2017&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 1
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Bombay Dabbawalas", 
+                            "players": [
+                                {
+                                    "name": "Russell Wilson, Sea", 
+                                    "points": 17.3, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Todd Gurley II, LAR", 
+                                    "points": 26.6, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Ty Montgomery, GB", 
+                                    "points": 29.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Emmanuel Sanders, Den", 
+                                    "points": 24.2, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Adam Thielen, Min", 
+                                    "points": 7.4, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Tyler Eifert, Cin", 
+                                    "points": 7.2, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Odell Beckham Jr., NYG", 
+                                    "points": 7.6, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST", 
+                                    "points": 1.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Matt Bryant, Atl", 
+                                    "points": 14.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 134.3, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=2&seasonId=2017&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Team Zhang", 
+                            "players": [
+                                {
+                                    "name": "Tom Brady, NE", 
+                                    "points": 36.8, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Marshawn Lynch, Oak", 
+                                    "points": 11.9, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Giovani Bernard, Cin", 
+                                    "points": 4.6, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Mike Evans, TB", 
+                                    "points": 22.3, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Terrelle Pryor Sr., NYJ", 
+                                    "points": 5.1, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Coby Fleener, NO", 
+                                    "points": 12.3, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Jeremy Maclin, Bal", 
+                                    "points": 13.1, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Chargers D/ST", 
+                                    "points": 2.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Dan Bailey, Dal", 
+                                    "points": 7.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 115.1, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=2&seasonId=2017&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 2
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Arlington Jolly Bears", 
+                            "players": [
+                                {
+                                    "name": "Matthew Stafford, Det", 
+                                    "points": 18.5, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Todd Gurley II, LAR", 
+                                    "points": 37.9, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Ty Montgomery, GB", 
+                                    "points": 13.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Odell Beckham Jr., NYG", 
+                                    "points": 28.9, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Emmanuel Sanders, Den", 
+                                    "points": 14.5, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Jesse James, Pit", 
+                                    "points": 3.9, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "T.Y. Hilton, Ind", 
+                                    "points": 28.3, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST", 
+                                    "points": 5.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Matt Bryant, Atl", 
+                                    "points": 14.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 164.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=3&seasonId=2017&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Bombay Dabbawalas", 
+                            "players": [
+                                {
+                                    "name": "Tom Brady, NE", 
+                                    "points": 45.7, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Marshawn Lynch, Oak", 
+                                    "points": 3.6, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Chris Thompson, Wsh", 
+                                    "points": 30.8, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Mike Evans, TB", 
+                                    "points": 13.7, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Terrelle Pryor Sr., NYJ", 
+                                    "points": 3.9, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Austin Hooper, Atl", 
+                                    "points": 1.9, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "DeVante Parker, Mia", 
+                                    "points": 21.6, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Bills D/ST", 
+                                    "points": 8.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Dan Bailey, Dal", 
+                                    "points": 4.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 133.2, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=3&seasonId=2017&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 3
+                }
+            ], 
+            "year": 2017
+        }, 
+        {
+            "weeks": [
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Holliston Hooligans", 
+                            "players": [
+                                {
+                                    "name": "Ben Roethlisberger, Pit", 
+                                    "points": 11.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Todd Gurley II, LAR", 
+                                    "points": 23.7, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "LeSean McCoy, Buf", 
+                                    "points": 3.1, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jarvis Landry, Cle", 
+                                    "points": 17.6, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "JuJu Smith-Schuster, Pit", 
+                                    "points": 16.9, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Travis Kelce, KC", 
+                                    "points": 1.6, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Pierre Garcon, SF", 
+                                    "points": 4.1, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Saints D/ST", 
+                                    "points": -7.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Matt Bryant, Atl", 
+                                    "points": 8.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 79.0, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=1&seasonId=2018&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Hurt Locker", 
+                            "players": [
+                                {
+                                    "name": "Jared Goff, LAR", 
+                                    "points": 21.2, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Saquon Barkley, NYG", 
+                                    "points": 20.8, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jordan Howard, Chi", 
+                                    "points": 15.7, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Davante Adams, GB", 
+                                    "points": 19.8, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Brandin Cooks, LAR", 
+                                    "points": 14.3, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Jordan Reed, Wsh", 
+                                    "points": 14.8, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Dion Lewis, Ten", 
+                                    "points": 22.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST", 
+                                    "points": 7.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Chris Boswell, Pit", 
+                                    "points": 2.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 137.6, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=1&seasonId=2018&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 1
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "The Questionables", 
+                            "players": [
+                                {
+                                    "name": "Ben Roethlisberger, Pit", 
+                                    "points": 45.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Todd Gurley II, LAR", 
+                                    "points": 32.3, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "LeSean McCoy, Buf", 
+                                    "points": 10.8, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jarvis Landry, Cle", 
+                                    "points": 11.9, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "JuJu Smith-Schuster, Pit", 
+                                    "points": 31.1, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Travis Kelce, KC", 
+                                    "points": 29.9, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Pierre Garcon, SF", 
+                                    "points": 9.7, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Saints D/ST", 
+                                    "points": 5.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Matt Bryant, Atl", 
+                                    "points": 8.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 183.7, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=2&seasonId=2018&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "Team Zhang", 
+                            "players": [
+                                {
+                                    "name": "Jimmy Garoppolo*, SF", 
+                                    "points": 20.6, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Saquon Barkley, NYG", 
+                                    "points": 24.8, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jordan Howard, Chi", 
+                                    "points": 9.8, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Davante Adams, GB", 
+                                    "points": 20.4, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Brandin Cooks, LAR", 
+                                    "points": 22.9, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Jordan Reed, Wsh", 
+                                    "points": 9.5, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Dion Lewis, Ten", 
+                                    "points": 5.3, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST", 
+                                    "points": 0.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Chris Boswell, Pit", 
+                                    "points": 2.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 115.3, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=2&seasonId=2018&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 2
+                }, 
+                {
+                    "boxscores": [
+                        {
+                            "opponentName": "Arlington Jolly Bears", 
+                            "players": [
+                                {
+                                    "name": "Ben Roethlisberger, Pit", 
+                                    "points": 30.0, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Todd Gurley II, LAR", 
+                                    "points": 24.6, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jordan Wilkins, Ind", 
+                                    "points": 4.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jarvis Landry, Cle", 
+                                    "points": 20.3, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "JuJu Smith-Schuster, Pit", 
+                                    "points": 20.6, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Travis Kelce, KC", 
+                                    "points": 19.4, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Kenny Golladay, Det", 
+                                    "points": 17.3, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Saints D/ST", 
+                                    "points": -2.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Matt Bryant, Atl", 
+                                    "points": 3.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 137.2, 
+                            "teamId": 1, 
+                            "teamName": "The Hurt Locker", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=1&scoringPeriodId=3&seasonId=2018&view=scoringperiod&version=quick"
+                        }, 
+                        {
+                            "opponentName": "The Questionables", 
+                            "players": [
+                                {
+                                    "name": "Jimmy Garoppolo*, SF", 
+                                    "points": 26.3, 
+                                    "position": "QB"
+                                }, 
+                                {
+                                    "name": "Saquon Barkley, NYG", 
+                                    "points": 22.7, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Jordan Howard, Chi", 
+                                    "points": 16.1, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Davante Adams, GB", 
+                                    "points": 18.2, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Brandin Cooks, LAR", 
+                                    "points": 16.0, 
+                                    "position": "WR"
+                                }, 
+                                {
+                                    "name": "Jordan Reed, Wsh", 
+                                    "points": 10.5, 
+                                    "position": "TE"
+                                }, 
+                                {
+                                    "name": "Dion Lewis, Ten", 
+                                    "points": 7.0, 
+                                    "position": "RB"
+                                }, 
+                                {
+                                    "name": "Patriots D/ST", 
+                                    "points": 2.0, 
+                                    "position": "D/ST"
+                                }, 
+                                {
+                                    "name": "Randy Bullock, Cin", 
+                                    "points": 2.0, 
+                                    "position": "K"
+                                }
+                            ], 
+                            "score": 120.8, 
+                            "teamId": 3, 
+                            "teamName": "Holliston Hooligans", 
+                            "url": "http://games.espn.com/ffl/boxscorequick?leagueId=552541&teamId=3&scoringPeriodId=3&seasonId=2018&view=scoringperiod&version=quick"
+                        }
+                    ], 
+                    "weekNumber": 3
+                }
+            ], 
+            "year": 2018
+        }
+    ]
+}

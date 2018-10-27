@@ -5,81 +5,118 @@
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 </head>
 <body>
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
-        <li class="nav-item">
-            <a class="nav-link active" id="current-season-tab" data-toggle="tab" href="#current-season" role="tab" aria-controls="current-season" aria-selected="true">Current Season</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" id="all-time-tab" data-toggle="tab" href="#all-time" role="tab" aria-controls="all-time" aria-selected="false">All Time Standings</a>
-        </li>
-    </ul>
-    <div class="tab-content">
-        <div class="tab-pane fade show active" id="current-season" role="tabpanel" aria-labelledby="current-season-tab">
-            <div>
-                <table class="table">
-                    <tablehead>
-                        <tr>
-                            <th></th>
-                            <th>Wins</th>
-                            <th>Losses</th>
-                            <th>Points For</th>
-                            <th>Points Against</th>
-                        </tr>
-                    </tablehead>
-                    <tablebody>
-                        
-                        {% for team in teams|dictsortreversed:"points_for"|dictsortreversed:"wins" %}
+    <div class="container">
+        <h1>This is ARCADIA! Fantasy Football League History</h1>
+        <ul class="nav nav-pills" id="myTab" role="tablist" style="padding-bottom:10px;">
+            <li class="nav-item">
+                <a class="nav-link active" id="current-season-tab" data-toggle="tab" href="#current-season" role="tab" aria-controls="current-season" aria-selected="true">Current Season</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="all-time-tab" data-toggle="tab" href="#all-time" role="tab" aria-controls="all-time" aria-selected="false">All Time Standings</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="top-10-tab" data-toggle="tab" href="#top-10" role="tab" aria-controls="top-10" aria-selected="false">Top 10 Games</a>
+            </li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="current-season" role="tabpanel" aria-labelledby="current-season-tab">
+                <div>
+                    <table class="table table-striped">
+                        <tablehead>
                             <tr>
-                                <td>
-                                    <span>{{ team.team_name }} ({{ team.owner }})</span>
-                                    {% with ''|center:team.championships as range %}
-                                    {% for _ in range %}
-                                        <span class="fa fa-star"></span>
-                                    {% endfor %}
-                                    {% endwith %}
-                                </td>
-                                <td>{{ team.wins }}</td>
-                                <td>{{ team.losses }}</td>
-                                <td>{{ team.points_for }}</td>
-                                <td>{{ team.points_against }}</td>
-                            </tr>    
-                        {% endfor %}
-                    </tablebody>
-                </table>
-            </div>            
-        </div>
-        <div class="tab-pane fade" id="all-time" role="tabpanel" aria-labelledby="all-time-tab">
-            <div>
-                <table class="table">
-                    <tablehead>
-                        <tr>
-                            <th></th>
-                            <th>Wins</th>
-                            <th>Losses</th>
-                            <th>Points For</th>
-                            <th>Points Against</th>
-                        </tr>
-                    </tablehead>
-                    <tablebody>
-                        
-                        {% for team in teams|dictsortreversed:"all_time_record.points_for"|dictsortreversed:"all_time_record.wins" %}
+                                <th></th>
+                                <th>Wins</th>
+                                <th>Losses</th>
+                                <th>Points For</th>
+                                <th>Points Against</th>
+                            </tr>
+                        </tablehead>
+                        <tablebody>
+                            
+                            {% for team in teams|dictsortreversed:"points_for"|dictsortreversed:"wins" %}
+                                <tr>
+                                    <td>
+                                        <span>{{ team.team_name }} ({{ team.owner }})</span>
+                                        {% with ''|center:team.championships as range %}
+                                        {% for _ in range %}
+                                            <span class="fa fa-star"></span>
+                                        {% endfor %}
+                                        {% endwith %}
+                                    </td>
+                                    <td>{{ team.wins }}</td>
+                                    <td>{{ team.losses }}</td>
+                                    <td>{{ team.points_for }}</td>
+                                    <td>{{ team.points_against }}</td>
+                                </tr>    
+                            {% endfor %}
+                        </tablebody>
+                    </table>
+                </div>            
+            </div>
+            <div class="tab-pane fade" id="all-time" role="tabpanel" aria-labelledby="all-time-tab">
+                <div>
+                    <table class="table table-striped">
+                        <tablehead>
                             <tr>
-                                <td>
-                                    <span>{{ team.team_name }} ({{ team.owner }})</span>
-                                    {% with ''|center:team.championships as range %}
-                                    {% for _ in range %}
-                                        <span class="fa fa-star"></span>
-                                    {% endfor %}
-                                    {% endwith %}
-                                </td>
-                                <td>{{ team.all_time_record.wins }}</td>
-                                <td>{{ team.all_time_record.losses }}</td>
-                                <td>{{ team.all_time_record.points_for }}</td>
-                                <td>{{ team.all_time_record.points_against }}</td>
-                            </tr>    
-                        {% endfor %}
-                    </tablebody>
-                </table>
+                                <th></th>
+                                <th>Win %</th>
+                                <th>Wins</th>
+                                <th>Losses</th>
+                                <th>Points For</th>
+                                <th>Points Against</th>
+                            </tr>
+                        </tablehead>
+                        <tablebody>
+                            
+                            {% for team in teams|dictsortreversed:"all_time_record.wins"|dictsortreversed:"all_time_record.win_percentage" %}
+                                <tr>
+                                    <td>
+                                        <span>{{ team.team_name }} ({{ team.owner }})</span>
+                                        {% with ''|center:team.championships as range %}
+                                        {% for _ in range %}
+                                            <span class="fa fa-star"></span>
+                                        {% endfor %}
+                                        {% endwith %}
+                                    </td>
+                                    <td>{{ team.all_time_record.win_percentage|floatformat:0 }}</td>
+                                    <td>{{ team.all_time_record.wins }}</td>
+                                    <td>{{ team.all_time_record.losses }}</td>
+                                    <td>{{ team.all_time_record.points_for }}</td>
+                                    <td>{{ team.all_time_record.points_against }}</td>
+                                </tr>    
+                            {% endfor %}
+                        </tablebody>
+                    </table>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="top-10" role="tabpanel" aria-labelledby="top-10-tab">
+                <div>
+                    <table class="table table-striped">
+                        <tablehead>
+                            <tr>
+                                <th>Score</th>
+                                <th>Team</th>
+                                <th>Season / Week</th>
+                            </tr>
+                        </tablehead>
+                        <tablebody>
+                            
+                            {% for boxscore in top_10_scores|dictsortreversed:"score" %}
+                                <tr>
+                                    <td>
+                                        {{ boxscore.score }}
+                                    </td>
+                                    <td>
+                                        {{ boxscore.teamName }} ({{ boxscore.teamOwner }})
+                                    </td>
+                                    <td>
+                                        <a href="{{ boxscore.url }}">{{ boxscore.season }} Week {{ boxscore.week }}</a>
+                                    </td>
+                                </tr>    
+                            {% endfor %}
+                        </tablebody>
+                    </table>
+                </div>
             </div>
         </div>
     </div>
